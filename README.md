@@ -14,3 +14,6 @@ At a minimum, each tip should contain relevant text and an image.
 The tips need to be displayed in a scrollable list (column or row) or a scrollable grid.
 Follow Material Design guidelines to create a distinct brand for the app.
 Make it unique! Make it special to you by showcasing what you learned! This is your chance to take an idea of your own from concept to reality.
+
+All images use are from the Pexels Website.
+All copy generated using Microsoft Bing AI search
